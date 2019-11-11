@@ -1,0 +1,14 @@
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>CareEvolution.Porter2StemmerStandard</id>
+    <version>0.0.0</version>
+    <description>CareEvolution fork of Porter2StemmerStandard</description>
+    <authors>CareEvolution, Inc.</authors>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src=".\Porter2StemmerStandard\bin\release\netstandard2.0\Porter2StemmerStandard.dll" target="lib\netstandard2.0"/>
+  </files>
+</package>
